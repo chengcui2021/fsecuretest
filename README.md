@@ -20,5 +20,10 @@ yarn run build
 yarn run e2e
 ```
 
+### run jest unit test
+```
+yarn run test
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
